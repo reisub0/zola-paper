@@ -23,6 +23,7 @@ git submodule add https://github.com/schoenenberg/zola-paper.git themes/zola-pap
 
 Either way, you will have to enable the theme in your `config.toml`.
 
+
 ```toml
 theme = "zola-paper"
 ```
